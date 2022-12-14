@@ -1,0 +1,170 @@
+.full-view{
+    width: 100%;
+    min-width: 800px;
+}
+
+#input{
+    display: none;
+}
+
+.ip-container{
+    position: absolute;
+    top: 0;
+    left: 10px;
+    display: flex;
+    font-size: 3vh;
+    color: white;
+}
+
+.ip-container .text{
+    margin-right: 10px;
+}
+
+.top{
+    height: 20vh;
+    min-height: 150px;
+    width: 100%;
+    text-align: center;
+    background: #98948c;
+    box-shadow: 0px 2px 3px 2px grey;
+}
+
+.top img{
+    margin-top: 2.5vh;
+    height: 15vh;
+    min-height: 112.5px;
+}
+
+.dashboard{
+    height: 20vh;
+    min-height: 150px;
+    width: 99%;
+    margin-left: 0.5%;
+    display: flex;
+    justify-content: space-around;
+    gap: 0.5%;
+}
+
+.indicator {
+    margin-top: 1vh;
+    height: 18vh;
+    min-height: 135px;
+    width: 33.33%;
+    background: #98948c;
+    box-shadow: 2px 2px 3px -2px grey;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+
+.indicator-score{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.indicator-body{
+    height: 13vh;
+    min-height: 97.5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.material-symbols-outlined{
+    font-size: 5vh;
+    margin-right: 20px;
+}
+
+.indicator-score{
+    font-size: 4vh;
+}
+
+.files{
+    min-height: 442.5px;
+    width: 99%;
+    margin-left: 0.5%;
+    display: flex;
+    justify-content: space-around;
+    gap: 0.5%;
+    margin-bottom: 20px;
+}
+
+.column{
+    min-height: 435px;
+    width: 80%;
+    box-shadow: 0px 0px 3px 1px grey;
+    border-radius: 10px;
+    color: white;
+}
+
+.hide{
+    display: none;
+}
+
+.column-header{
+    background: #98948c;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    align-items: center;
+    padding: 5px 5px 5px 20px;
+    min-height: 50px;
+}
+
+.column-body{
+    min-height: 385px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.column-body .not-found{
+    color: black;
+    text-align: center;
+}
+
+.menu{
+    min-height: 435px;
+    width: 20%;
+    box-shadow: 0px 0px 3px 1px grey;
+    border-radius: 10px;
+    color: white;
+}
+
+.menu-header{
+    background: #98948c;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    align-items: center;
+    padding: 5px 5px 5px 20px;
+    min-height: 50px;
+}
+
+.menu-body{
+    min-height: 385px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.menu-item{
+    width: 90%;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.menu-item:hover{
+    background: rgba(128, 128, 128, 0.2);
+    cursor: pointer;
+    padding: 5px;
+    transition: all 0.5s ease;
+}
+
+#dataGrid {
+    height: 500px;
+}
