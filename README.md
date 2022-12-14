@@ -145,3 +145,18 @@ Nessa pasta estão os arquivos html, css e js, com o eel.expose() é possível e
 * O menu lateral na esquerda tem as opções de Uploads e Downloads, em uma melhoria de versão, seria interessante adicionar o horário e mais informações de cada upload e download de arquivos.
 
 * A tabela de arquivos locais tem um pequeno erro que ao excluir todos os arquivos o botão trava e não conseguimos adicionar arquivos novamente.
+
+## Referências
+
+* Tanenbaum, A.S., Redes de Computadores, Tradução da 4a Edição, Editora Campus, 2003.
+* Stallings, W., Redes e Sistemas de Comunicação de Dados, Editora Campus, 2005.
+* COMER, D. E. Interligação de Redes com TCP/IP, Vol. I: Princípios, Protocolos e Arquitetura.
+5a ed., Ed. Campus, 2006.
+* PAULA FILHO, W.P. Multimídia: Conceitos e Aplicações. LTC editora, Rio de Janeiro, 2000.
+* LOPES, Raquel V., SAUVÉ, Jacques P. e NICOLLETTI, Pedro S. Melhores Práticas para
+Gerência de Redes de Computadores. E
+Kurose, J., Ross, K., Redes de Computadores e a Internet - Uma Abordagem Top-Down, 6a
+Edição. Addison Wesley, 2013.
+* Kurose, J., Ross, K., Computer Networking, 7th. Ed., Addison-Wesley, 2016.
+
+* https://realpython.com/python-sockets/
