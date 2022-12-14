@@ -2,7 +2,7 @@
 
 ## Trabalho Redes de Computadores I
 
-Equipe 05: 
+SOCKET SHARE - Equipe 05 : 
 * Benjamin Anderson
 * Breno Leonardo Lima Macedo
 * Julio Cesar Lopes
@@ -139,3 +139,9 @@ Mensagem referente ao Download
 ## www
 
 Nessa pasta estão os arquivos html, css e js, com o eel.expose() é possível expor as funções dentro da tag <script> para o python 
+
+## Melhorias
+
+* O menu lateral na esquerda tem as opções de Uploads e Downloads, em uma melhoria de versão, seria interessante adicionar o horário e mais informações de cada upload e download de arquivos.
+
+* A tabela de arquivos locais tem um pequeno erro que ao excluir todos os arquivos o botão trava e não conseguimos adicionar arquivos novamente.
