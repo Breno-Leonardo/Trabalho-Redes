@@ -20,6 +20,12 @@ Para o trabalho, foram utilizadas as seguintes bibliotecas:
 
 * jQuery: jQuery é uma biblioteca de código aberto, possui sintaxe que simplifica: a navegação do documento HTML, a seleção de elementos DOM.
 
+### Para instalar a Ell:
+
+```
+pip install eel
+```
+
 ## main.py
 
 Define a pasta do HTML e CSS.
